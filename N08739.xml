@@ -112,8 +112,9 @@
    <text xml:lang="eng">
       <front>
          <div type="title_page">
-            <pb facs="tcp:011172_0000_0F857FBC4CDB2EF8"/>
-            <pb facs="tcp:011172_0001_0F857FBCDA3117E8" rendition="simple:additions"/>
+            <pb facs="unknown:011172_0000_0F857FBC4CDB2EF8"/>
+            <pb facs="unknown:011172_0001_0F857FBCDA3117E8"
+                rendition="simple:additions"/>
             <p>THE HALF-WAY COVENANT. A DIALOGUE.</p>
             <p>By JOSEPH BELLAMY, D. D.</p>
             <q>
@@ -130,14 +131,14 @@
                <hi>BOSTON:</hi> Re-printed and Sold by KNEELAND and ADAMS, next to the Treaſurer's Office in Milk-Street. MDCCLXIX.</p>
          </div>
          <div type="summary">
-            <pb facs="tcp:011172_0002_0F857FBFED268860"/>
+            <pb facs="unknown:011172_0002_0F857FBFED268860"/>
             <head>CONTENTS.</head>
             <p>THE friendly Manner in which diſſatisfied Pariſhioners ought to apply to their Miniſter, and the kind Re<g ref="char:EOLhyphen"/>ception he ought to give them—no Texts of Scripture for the <hi>Half-Way-Covenant</hi>—a brief Hiſtory of its Origin— the Sentiments of common People about it—the original plan—the preſent Sentiments and Practice inconſiſtent with <hi>Mather's</hi> Scheme—and with <hi>Stoddard's</hi> Scheme—and with <hi>Scripture</hi>—and with <hi>Common-Senſe</hi>—Covenants not re<g ref="char:EOLhyphen"/>quiring real Holineſs, a human Device—give no Title to the Seals of God's Covenant—Baptiſm adminiſtred without a Divine Warrant, neither lawful nor uſeful—Chriſt's Commiſſion, and the Apoſtles Practice—the Nature of Bap<g ref="char:EOLhyphen"/>tiſm, and when a Man may be ſaid to deſire it for his Children—the Way in which all Parents may have their Children regularly baptized, if it be not their own Fault— their Duty ſtated and urged.</p>
          </div>
       </front>
       <body>
          <div type="dialogue">
-            <pb facs="tcp:011172_0003_0F857FC0A3826888"/>
+            <pb facs="unknown:011172_0003_0F857FC0A3826888"/>
             <head>A DIALOGUE. Between a MINISTER and his PARISHIONER, concerning the HALF-WAY-COVENANT.</head>
             <sp>
                <speaker>PARISHIONER.</speaker>
@@ -148,7 +149,7 @@
                <p>Sir, I am now at leiſure, and at your ſer<g ref="char:EOLhyphen"/>vice, and your honeſt frankneſs gives me pleaſure. Be<g ref="char:EOLhyphen"/>tween you and me alone to let me know the objections you have againſt any part of my conduct, is to act a friendly part. It is more kind and chriſtian-like, than to keep your thoughts to yourſelf, to engender a ſecret diſaffection in your heart.—It is much more friendly than to rail a<g ref="char:EOLhyphen"/>gainſt me behind my back, all round the pariſh. And you may be quite aſſured, that not only now, but in all future times, I ſhall with pleaſure liſten to any objections againſt my public adminiſtrations propoſed in a friendly, candid manner; and will be ready to be ſet right, where<g ref="char:EOLhyphen"/>in I am wrong; or to let you know the reaſons of my conduct. For next to the light of God's countenance, and the approbation of my own conſcience, I prize the good opinion of my fellow-men: And particularly, I greatly prize the teſtimony of the conſciences of my own people in my behalf. To your conſcience, therefore, I am now willing to approve myſelf. Open your mind without the leaſt reſerve.</p>
             </sp>
             <sp>
-               <pb n="4" facs="tcp:011172_0004_0F857FC16A50E6A8"/>
+               <pb n="4" facs="unknown:011172_0004_0F857FC16A50E6A8"/>
                <speaker>P.</speaker>
                <p>I have lately moved into the pariſh; I had own<g ref="char:EOLhyphen"/>ed the covenant in the town I came from;—my other children have been baptized—we have now another child born; and I hear you refuſe to baptize the children of any but thoſe who are in full communion: This gives me pain.</p>
             </sp>
@@ -163,7 +164,7 @@
             <sp>
                <speaker>M.</speaker>
                <p>No, Sir, it is not the cuſtom every where; it was not the cuſtom where I was born and brought up; and there are many churches in the country, that are not in the practice. At the firſt ſettling of New-England, there was, ſo far as I know, not one church that allowed baptiſm to the children of any but thoſe whoſe parents were one or both in full communion. About 40 years after the firſt church was formed, this cuſtom was brought in by a Synod that met at Boſton 1662. Many miniſters and churches zealouſly oppoſed it at the time, and even to this day, the cuſtom is not become univerſal: And of late a conſiderable number of churches, who had adopted the practice, have laid it aſide. It is not practiſed at all in the church of Scotland, as I have been informed by a Rev. Gentleman of an eſtabliſhed reputation, who has lately been invited, and who has removed from thence, to the Preſidency of New-Jerſey College. And it is certain
-<pb n="5" facs="tcp:011172_0005_0F857FC23B0F6668"/>
+<pb n="5" facs="unknown:011172_0005_0F857FC23B0F6668"/>
 the confeſſion of faith, catechiſms and directory of the church of Scotland, make no mention of it; Neither is the practice mentioned in the Say-Brook platform, which has been generally received by the churches in Connecti<g ref="char:EOLhyphen"/>cut; for the council which met at Say-Brook, did not ſee cauſe to adopt that practice, although it had been intro<g ref="char:EOLhyphen"/>duced by the Synod at Boſton.—But if you had not ſtudied the point before you owned the covenant; and if you took it for granted, that it was right, merely from education, yet you are able to let me know in what views, and from what motives you owned the covenant: As I ſuppoſe you meant to act conſcientiouſly.</p>
             </sp>
             <sp>
@@ -183,11 +184,11 @@ the confeſſion of faith, catechiſms and directory of the church of Scotland, 
             <sp>
                <speaker>M.</speaker>
                <p>It is true, it was indeed their opinion, if we may give credit to their own declarations. No man who was
-<pb n="6" facs="tcp:011172_0006_0F857FC2DFAD96B0"/>
+<pb n="6" facs="unknown:011172_0006_0F857FC2DFAD96B0"/>
 for this practice, was of more note than the Rev. Dr. In<g ref="char:EOLhyphen"/>creaſe Mather, of Boſton, who was a member of the Sy<g ref="char:EOLhyphen"/>nod, and afterwards wrote in defence of this practice; and no author can in more expreſs language declare his ſentiments. Theſe are his own words, in a pamphlet, entituled, <hi>A diſcourſe concerning the ſubject of Baptiſm, wherein the preſent Controverſies that are agitated in the New-England Churches are from ſcripture &amp; reaſon modeſtly enquired into,</hi> pag. 52, 53. <q>In the fifth place, it may be alledged, that the perſons in queſtion, either have to the judgment of charity, a juſtifying faith, or not. If not, they, and conſequently their children, are not bap<g ref="char:EOLhyphen"/>tizable. If yea, then they are forthwith admittable to the Lord's ſupper.</q> Anſwer.</p>
                <p n="1">
                   <q>1. I do readily acknowledge, that as it is only a juſti<g ref="char:EOLhyphen"/>fying faith which giveth right to baptiſm before God; ſo it is the profeſſion or viſibility of this faith, that giv<g ref="char:EOLhyphen"/>eth right thereunto before the church. Some have maintained that a <hi>dogmatical hiſtorical</hi> faith, or a faith of <hi>aſſent</hi> to the truth of the goſpel, doth entitle to bap<g ref="char:EOLhyphen"/>tiſm. But the common proteſtant doctrine againſt the papiſts, ſpeaketh otherwiſe. Though a man ſhould be<g ref="char:EOLhyphen"/>lieve all that the holy ſcriptures ſay concerning God and Chriſt, yet if he doth not conſent with his heart, that this God ſhall be <hi>his God,</hi> and this Chriſt <hi>his Saviour,</hi> he hath not right to baptiſm in the ſight of God; or if he doth not <hi>profeſs</hi> ſuch a <hi>conſent,</hi> (which is implied in the proportion before us, when it is ſaid concerning the perſons in queſtion, that they <hi>gave up themſelves to the Lord</hi>) he cannot juſtly claim baptiſm. In moſt churches in the world, men own the creed, (called the Apoſtles) before baptiſm. Now therein they ſay, I believe [in] God, and not only I believe God, viz. with a faith of aſſent only in the underſtanding. Now to believe <hi>in</hi> God, implieth a <hi>conſent of the will,</hi> chooſing this God for my God. And conſidering that in bap<g ref="char:EOLhyphen"/>tiſm, there is a profeſſion of repentance for paſt tranſ<g ref="char:EOLhyphen"/>greſſions,
-<pb n="7" facs="tcp:011172_0007_0F857FC3B12D8210"/>
+<pb n="7" facs="unknown:011172_0007_0F857FC3B12D8210"/>
 and an engagement to walk in newneſs of life for time to come, <hi>Mark</hi> i. 4.2 <hi>Pet.</hi> i. 9 And that it cometh in the room of circumciſion, which was a ſeal of the righteouſneſs of faith, <hi>Rom.</hi> iv. 11. And that there<g ref="char:EOLhyphen"/>by remiſſion of ſins is ſealed, <hi>Acts</hi> ii. 38. Which re<g ref="char:EOLhyphen"/>miſſion is not promiſed to any faith but juſtifying; alſo that baptiſm is ſaid to ſave, 1 <hi>Pet.</hi> iii. 21. And they that are baptized are ſaid to be in Chriſt, <hi>Gal.</hi> iii. 17. And to have communion with Chriſt in reſpect of his death and reſurrection, <hi>Rom.</hi> vi. 4, 5. <hi>Col.</hi> ii. 12. I ſay, from theſe and many the like conſiderations, I am fully perſuaded that it is not a mere hiſtorical, but juſtifying faith which giveth right to baptiſm.</q>
                </p>
                <p>Theſe are his words, and they are as plain and expreſs as could be deſired.</p>
@@ -205,7 +206,7 @@ and an engagement to walk in newneſs of life for time to come, <hi>Mark</hi> i.
                <p>But what would Dr. Mather ſay to this?</p>
             </sp>
             <sp>
-               <pb n="8" facs="tcp:011172_0008_0F857FC459AA4C18"/>
+               <pb n="8" facs="unknown:011172_0008_0F857FC459AA4C18"/>
                <speaker>M.</speaker>
                <p>You may hear, for theſe are his words: (P. 54.)— <q>It will not follow that theſe perſons are immediately to be admitted to the Lord's table, or to the privileges of full communion. For <hi>more full and ſatisfactory eviden<g ref="char:EOLhyphen"/>ces</hi> of regeneration and of chriſtian proficiency, are re<g ref="char:EOLhyphen"/>quiſite in order to admiſſion to the Lord's table, than in order to baptiſm.</q> And if you will read <hi>Mather</hi>'s <hi>Magnalia,</hi> you will ſee, that they inſiſted on <hi>Initial grace</hi> in order to baptiſm, but ſuppoſed greater attainments neceſſary in order to the Lord's ſupper. But if that command of Chriſt is binding on weak chriſtians, who are indeed real chriſtians, <hi>Luk.</hi> xxii. 19. To ſay they are not to be ad<g ref="char:EOLhyphen"/>mitted to the Lord's table, is to ſay, it is not lawful they ſhould obey the command of Chriſt. So this half-way-covenant while it teaches for doctrine the commandment of men ſets aſide the command of Chriſt.</p>
             </sp>
@@ -218,7 +219,7 @@ and an engagement to walk in newneſs of life for time to come, <hi>Mark</hi> i.
                <p>This is a miſtake. Mr. Stoddard of Northampton, never practiced the half-way, i. e. he never admitted any to have baptiſm for their children, but thoſe who were in full communion, and he expreſly declares that thoſe who have been baptized in infancy, and owned their covenant, are obliged in duty to come to the Lord's table. Yea, he ſays, (appeal p. 63, edit. 2.) <q>It is a ſcandal if they do not, and the church may call them to an account for their neglect. It is a viſible contempt caſt upon the or<g ref="char:EOLhyphen"/>dinance.</q> He held the Lord's ſupper to be a converting ordinance: And that unconverted men knowing themſelves to be ſuch, might lawfully come. And that it was as law<g ref="char:EOLhyphen"/>ful to come to the Lord's ſupper, as to baptiſm, (p. 77.) ſo that there was no room for any half-way-covenant or half-way-practice, on his ſcheme. For unconverted men knowing themſelves to be ſuch may on his ſcheme come not only half-way, but to all ordinances, and to one as well as to another.</p>
             </sp>
             <sp>
-               <pb n="9" facs="tcp:011172_0009_0F857FC994F1A220"/>
+               <pb n="9" facs="unknown:011172_0009_0F857FC994F1A220"/>
                <speaker>P.</speaker>
                <p>I never heard of theſe things till now, and I know not what to think or what to ſay. It ſeems as if the half-way-covenant, and the half-way-practice, could not be made conſiſtent on any ſcheme.</p>
             </sp>
@@ -233,7 +234,7 @@ and an engagement to walk in newneſs of life for time to come, <hi>Mark</hi> i.
             <sp>
                <speaker>M.</speaker>
                <p>If you pleaſe, ſir, I will repeat the covenant we uſe when any join in full communion, the ſame that was read to me by my miniſter, when I joined to the church about three and thirty years ago. A brief ſummary of it is this,— <q>You do now in the preſence of the dread Majeſty of Heaven and Earth, and before angels and men, in
-<pb n="10" facs="tcp:011172_0010_0F857FC9B39C3438"/>
+<pb n="10" facs="unknown:011172_0010_0F857FC9B39C3438"/>
 the ſincerity of your ſoul, avouch the Lord Jehovah to be your ſovereign Lord, and ſupreme Good, thro' Jeſus Chriſt; and ſolemnly devote and give up yourſelf to his fear and ſervice, to walk in all his ways and keep all his commands, ſeeking his glory,</q> &amp;c. And is this more full and expreſs than your former miniſter uſed when per<g ref="char:EOLhyphen"/>ſons owned the covenant?</p>
             </sp>
             <sp>
@@ -254,7 +255,7 @@ the ſincerity of your ſoul, avouch the Lord Jehovah to be your ſovereign Lord
                <p>How can a man that knows himſelf to be uncon<g ref="char:EOLhyphen"/>verted, dead in ſin, and deſtitute of the grace of God, ſtand up before the whole congregation, and ſay, <q>I do now in the preſence of the dread Majeſty of Heaven and Earth, and before angels and men, avouch the Lord Jehovah to be my ſovereign Lord, and ſupreme Good, through Jeſus Chriſt, and ſolemnly devote and give up myſelf to his fear and ſervice, to walk in all his ways, and keep all his commands, ſeeking his glory</q>?—</p>
             </sp>
             <sp>
-               <pb n="11" facs="tcp:011172_0011_0F857FCA71A99B98"/>
+               <pb n="11" facs="unknown:011172_0011_0F857FCA71A99B98"/>
                <speaker>P.</speaker>
                <p>I freely own I knew not what I did, when I owned the covenant.—But you hinted juſt now, that this is not the cuſtom in all the churches where the half-way-practice takes place.</p>
             </sp>
@@ -263,7 +264,7 @@ the ſincerity of your ſoul, avouch the Lord Jehovah to be your ſovereign Lord
                <p>I have heard of a few churches where the miniſters have of late drawn up a new form for thoſe who own the covenant, eſſentially different from that which is uſed when any one is admitted to full communion; which new form deſignedly leaves out the covenant of grace, and contains a profeſſion, which unconverted men may make, and yet ſpeak true. And this, with greater propriety, may be called the half-way-covenant, although indeed, it does not go half-way, and gives no right to thoſe ordi<g ref="char:EOLhyphen"/>nances which are ſeals of the covenant of grace. Beſides, God never did propoſe any covenant to mankind, but which required real holineſs on man's part; and any co<g ref="char:EOLhyphen"/>venant ſhort of this, is a mere human device. It is teach<g ref="char:EOLhyphen"/>ing for doctrine the commandment of men, directly con<g ref="char:EOLhyphen"/>trary to the expreſs orders of Jeſus Chriſt to his apoſtles, and all their ſucceſſors. Mat. 28.20. <hi>Teaching them to obſerve whatſoever I command you.</hi>—The covenant with Adam, required perfect holineſs, without any proviſion for pardon in caſe of tranſgreſſion.—The covenant at Sinai, written on the two tables of ſtone, called <hi>the tables of the covenant,</hi> containing ten commands, according to our Saviour's interpretation, required them <hi>to love God with all their heart, and their neighbour as themſelves,</hi> in which the ſum of all virtue conſiſts; (Mat. 22.37—40.) But however it made proviſion for pardon to the true peni<g ref="char:EOLhyphen"/>tent, through ſhedding of blood, but not for impenitent ſinners, Lev. 26. 1 Kin. 8. And it is acknowledged on all hands, Antinomians excepted, that repentance toward God, and ſaith toward Chriſt, are required in the cove<g ref="char:EOLhyphen"/>nant of grace, as revealed in the goſpel. Theſe ungraci<g ref="char:EOLhyphen"/>ous covenants, therefore, are not from heaven, but of men.</p>
             </sp>
             <sp>
-               <pb n="12" facs="tcp:011172_0012_0F857FCB2A5908B0"/>
+               <pb n="12" facs="unknown:011172_0012_0F857FCB2A5908B0"/>
                <speaker>P.</speaker>
                <p>My conſcience is convinced. I am obliged to give up the half-way-covenant; but it is with no ſmall reluct<g ref="char:EOLhyphen"/>ance: For what will become of my child? Muſt it re<g ref="char:EOLhyphen"/>main unbaptized? I cannot bear the thought. What ſhall I do?</p>
             </sp>
@@ -294,7 +295,7 @@ the ſincerity of your ſoul, avouch the Lord Jehovah to be your ſovereign Lord
             <sp>
                <speaker>M.</speaker>
                <p>You remember when the King came in to view the gueſts, he ſaw a man among them <hi>not having on a wed<g ref="char:EOLhyphen"/>ding garment;</hi> to whom he ſaid, <hi>Friend, how cameſt thou in hither, not having on a wedding garment? And he was ſpeechleſs.</hi> To make a falſe and lying profeſſion, is inex<g ref="char:EOLhyphen"/>cuſable wickedneſs. It is true, there will be <hi>tares</hi> along with the <hi>wheat;</hi> but it is <hi>the Devil ſaws</hi> them there, and not the ſervants. And it <hi>ſelfe brethren</hi> come into the
-<pb n="13" facs="tcp:011172_0013_0F857FCBDDBCCEE8"/>
+<pb n="13" facs="unknown:011172_0013_0F857FCBDDBCCEE8"/>
 church, they <hi>creep in unawares;</hi> they have no right to be there.</p>
             </sp>
             <sp>
@@ -329,11 +330,11 @@ church, they <hi>creep in unawares;</hi> they have no right to be there.</p>
             <sp>
                <speaker>M.</speaker>
                <p>Baptiſm, you know, is adminiſtered <hi>in the name of the Father, and of the Son, and of the Holy Ghoſt.</hi> In baptiſm, therefore, you dedicate your child to God the Father, through Jeſus Chriſt his Son, to be ſanctified by
-<pb n="14" facs="tcp:011172_0014_0F857FCCB44B3CD0"/>
+<pb n="14" facs="unknown:011172_0014_0F857FCCB44B3CD0"/>
 the Holy Ghoſt; and ſo give up your child with all your heart to the Lord for ever, to be educated for God, and to be for him, and for him alone, in time and to eternity. And do you love God to that degree, as thus to give him your child for ever; if ſo, why do not give yourſelf to God, firſt of all? You love your child, but you love yourſelf bet<g ref="char:EOLhyphen"/>ter. Firſt of all then ceaſe to be cruel to your own ſoul; no longer practically renounce your own baptiſm, by turning your back on God and the Redeemer; but act up to its genuine import; give yourſelf to God, through Jeſus Chriſt his Son, that you may become the temple of the Holy Ghoſt; and thus ratify what your parents did for you, when they dedicated you to God in baptiſm. This is that owning of the baptiſmal covenant which God re<g ref="char:EOLhyphen"/>quires at your hands. Then bring your dear child, and conſecrate it to God in ſincerity and truth. This is the way, the right way, for a bleſſing. But if inſtead of this, you are moved only by cuſtom, by a ſenſe of worldly honor, by pride and ſhame; and deſire that holy ordinance to be adminiſtered to your child from unholy motives, as Simon Magus deſired the miraculous gifts of the Holy Ghoſt to anſwer his carnal ends: God knows it, and all the world will know it at the day of judgment.—Pray, how was it when your other children were baptized? And how is it in general to all appearance when people own the covenant and get their children baptized? Are they brought up for God? Or only to ſerve divers luſts and pleaſures? Look through the country, wherever you are acquainted, the youth learn to dreſs, to ſing, to dance; but do their parents appear to underſtand, that they have devoted them to God? And is this evidently their great concern to bring them up for God? But to leave others, and to attend only to your own heart. Can it be true, that you have a heart to give your child to God, and yet not a heart to give yourſelf to him? Think of it, my dear ſir.</p>
             </sp>
             <sp>
-               <pb n="15" facs="tcp:011172_0015_0F857FCD77C97A98"/>
+               <pb n="15" facs="unknown:011172_0015_0F857FCD77C97A98"/>
                <speaker>P.</speaker>
                <p>I muſt grant that it is abſurd and inconſiſtent, for a parent to pretend to have a heart to give his child to God, and yet have no heart to give himſelf to him. But I do deſire to give myſelf to God.</p>
             </sp>
@@ -348,7 +349,7 @@ the Holy Ghoſt; and ſo give up your child with all your heart to the Lord for 
             <sp>
                <speaker>M.</speaker>
                <p>Is not God your Creator? Are you not his by an ori<g ref="char:EOLhyphen"/>ginal, abſolute, entire right? Is he not infinitely worthy of your ſupreme love? Were you not in your infancy dedi<g ref="char:EOLhyphen"/>cated to him in baptiſm? And have you turned your back upon him to this very hour? And practically renounced your baptiſm in his ſight? So that dying in this ſtate, your baptiſm will be of no advantage to you; you will periſh among the uncircumciſed, among the unbaptized, among pagans; as it is written, <hi>he that believeth not ſhall be damn<g ref="char:EOLhyphen"/>ed,</hi> and <hi>except ye repent, ye ſhall all likewiſe periſh!</hi> And do you now enquire, what you ſhall do? Ah, may dear ſir! The anſwer is plain. <hi>Repent and be converted, that your ſins may be blotted out.</hi> And thus at laſt comply with the import of your baptiſm. And become a diſciple of Chriſt. <hi>And if ye are Chriſt's, then are ye Abraham's ſeed, and heirs according to the promiſe. But unto the wicked,
-<pb n="16" facs="tcp:011172_0016_0F857FCE2C612520"/>
+<pb n="16" facs="unknown:011172_0016_0F857FCE2C612520"/>
 God ſaith, what haſt thou to do, to declare my ſtatutes? Or that thou ſhouldſt take my covenant in thy mouth?</hi> Pſa. l. 16.—Pray accept kindly this advice from one who is your friend, and who is bound by office to act an honeſt part with the ſouls committed to his charge.</p>
             </sp>
             <sp>
